@@ -1,0 +1,12 @@
+# dbt folders
+ae_project/target/
+ae_project/dbt_packages/
+ae_project/logs/
+
+# Local environment
+dbt-env/
+logs/
+
+# Python
+__pycache__/
+*.pyc
